@@ -11,6 +11,7 @@ The goal of this project is to provide users with the capability to genearte the
 ## Website
 https://malikspruill.github.io/password-formulator/ <br />
 
+<img src="./assets/images/password-formulator-screenshot.png" width="600px" />
 
 
 ## Contribution(s)
